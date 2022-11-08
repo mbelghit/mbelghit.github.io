@@ -432,6 +432,11 @@ section {
         flex-direction: row;
         flex-wrap: wrap;
     }
+    
+    .footer-tittle {
+        font-size: 0.8em;
+        font-weight: 500;
+    }
 
     
 }
