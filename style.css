@@ -321,7 +321,7 @@ section {
 
          .main h2 {
             color: #1f1f1f;
-            font-size: 1.4em;
+            font-size: 2em;
             font-weight: 500;
         }
         .main h2 span {
@@ -423,7 +423,7 @@ section {
         background: none;
         background-size: cover;
         background-position: center;
-        padding: 89px;
+        padding: 38px;
         text-align: center;
     }
     .content {
