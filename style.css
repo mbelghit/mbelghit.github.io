@@ -277,6 +277,8 @@ section {
             letter-spacing: 1px;
             margin-bottom: 30px;
         }
+    
+       
 
     
 }
@@ -346,6 +348,10 @@ section {
             justify-content: space-between;
             align-items: center;
             padding: 11px 87px;
+        }
+    
+     .title {
+            text-align: center;
         }
 
    }
@@ -437,6 +443,10 @@ section {
         font-size: 0.8em;
         font-weight: 500;
     }
+    
+     .title {
+            text-align: center;
+        }
 
     
 }
